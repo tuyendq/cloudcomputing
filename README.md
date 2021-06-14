@@ -6,5 +6,6 @@
 | Block object | S3 | xxxxs xxxx |     |
 | On-pre to cloud   | AWS Direct Connect |     |     |
 |    | AWS Storage Gateway |     |     |  |  |
+|     | AWS Elastic Beanstalk | Azure App Service |     |     |     |
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
