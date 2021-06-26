@@ -2,8 +2,8 @@
 
 | Service       | AWS | Azure | GCP | IBM | Oracle | Alibaba |
 | :---       | :--- | :--- | :--- | :--- | :--- | :--- |
-| VM | EC2 | xxxxs xxxx |     |    |    |
-| Block object | S3 | xxxxs xxxx |     |
+| Compute | AWS EC2 | xxxxs xxxx |     |    |    |
+| Block object | AWS S3 | xxxxs xxxx |     |     |     |
 | On-pre to cloud   | AWS Direct Connect |     |     |
 |    | AWS Storage Gateway |     |     |  |  |
 | PaaS | AWS Elastic Beanstalk | Azure App Service |     |     |     |
