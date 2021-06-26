@@ -7,5 +7,6 @@
 | On-pre to cloud   | AWS Direct Connect |     |     |
 |    | AWS Storage Gateway |     |     |  |  |
 | PaaS | AWS Elastic Beanstalk | Azure App Service |     |     |     |
+| PaaS | AWS Step Functions | Azure ??? |     |     |     |
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
