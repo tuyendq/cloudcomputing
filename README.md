@@ -8,6 +8,8 @@
 |    | AWS Storage Gateway |     |     |  |  |
 | PaaS | AWS Elastic Beanstalk | Azure App Service |     |     |     |
 | PaaS | AWS Fargate | Azure ??? | GCP ???  |     |     |
+| Container | AWS ECS | Azure ??? | GCP ???  |     |     |
+| K8s | AWS EKS | Azure ??? | GCP ???  |     |     |
 |  | AWS Step Functions | Azure Logic Apps |     |     |     |
 |  | AWS CodeStar |  |     |     |     |
 |  | AWS CodeCommit |  |     |     |     |
