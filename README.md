@@ -7,6 +7,12 @@
 | On-pre to cloud   | AWS Direct Connect |     |     |
 |    | AWS Storage Gateway |     |     |  |  |
 | PaaS | AWS Elastic Beanstalk | Azure App Service |     |     |     |
-| PaaS | AWS Step Functions | Azure Logic Apps |     |     |     |
+|  | AWS Step Functions | Azure Logic Apps |     |     |     |
+|  | AWS CodeStar |  |     |     |     |
+|  | AWS CodeCommit |  |     |     |     |
+|  | AWS CodeBuild |  |     |     |     |
+|  | AWS CodePipeline |  |     |     |     |
+|  | AWS CodeDeploy |  |     |     |     |
+|  | AWS Cloud9 |  |     |     |     |
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
