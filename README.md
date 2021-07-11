@@ -18,4 +18,5 @@
 |  | AWS CodeDeploy |  |     |     |     |
 |  | AWS Cloud9 |  |     |     |     |
 |     |     |     |     |     |     |
+|     | AWS Outposts | Azure Stack |     |     |     |
 | --- | --- | --- | --- | --- | --- |
